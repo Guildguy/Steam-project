@@ -1,0 +1,80 @@
+.body{
+  background-color: rgb(32, 32, 32);
+}
+
+.steam-header{
+    background-image: url("STEAM\ BACKGROUND.png");
+    height: 100px;
+}
+
+.steam-instal{
+    color:white;
+    margin-left: 1100px;
+}
+
+.logo{
+    margin-left: 35px;
+    height: 50px;
+}
+
+.store, .community, .about, .support{
+    color: whitesmoke;
+    padding-left: 10px;
+}
+
+.steam-aba{
+    background-color: rgb(68, 65, 65);
+    height: 80px;
+}
+
+.featured-steam-aba{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    padding-right: 40px;
+    color: gray;
+    border: gray;
+    margin-right: 10px;
+} 
+
+.featured, .games, .software, .demos, .recommended, .news, .linux{
+background-color: rgb(114, 109, 109);
+padding-top: 6px;
+padding-bottom: 6px;
+padding-left: 15px;
+padding-right: 15px;
+color: seashell;
+}
+
+.search-box{
+    background-color: rgb(114, 109, 109);
+}
+
+.search-txt{
+    color: seashell;
+}
+
+
+.steam-sign-in, .steam-create{
+    display:inline-table;
+    color: seashell;
+    border: solid rgb(68, 65, 65);
+    background-color: rgb(29, 28, 28);
+    align-items: center;
+}
+
+.steam-sign-in{
+    width: 10cm;
+    padding-left: 10px;
+}
+
+.steam-create{
+    width: 10cm;
+    height: 330px;
+}
+
+.ps4-symbol{
+    width: 100px;
+    height: 100px;
+}
